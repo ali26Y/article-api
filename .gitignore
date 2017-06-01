@@ -6,3 +6,4 @@ curl-output.json
 /.nyc_output
 npm-debug.log
 output.json
+package-lock.json
