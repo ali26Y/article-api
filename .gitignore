@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules
+/doc
+curl-output.json
+/coverage
+/.nyc_output
+npm-debug.log
+output.json
